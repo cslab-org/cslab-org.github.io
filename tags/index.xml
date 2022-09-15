@@ -5,6 +5,7 @@
     <link>https://bnjasim.github.io/tags/</link>
     <description>Recent content in Tags on Scribbles</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bnjasim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>2020-{{ YEAR }}</copyright><atom:link href="https://bnjasim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
